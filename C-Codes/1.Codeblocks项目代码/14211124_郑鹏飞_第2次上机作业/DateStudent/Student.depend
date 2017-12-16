@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1428073904 source:c:\users\user\desktop\myself\14211124_郑鹏飞_第二次上机作业\date.cpp
+	"Date.h"
+	<iostream>
+
+1428073904 c:\users\user\desktop\myself\14211124_郑鹏飞_第二次上机作业\date.h
+
+1428150989 source:c:\users\user\desktop\myself\14211124_郑鹏飞_第二次上机作业\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+
+1428073904 c:\users\user\desktop\myself\14211124_郑鹏飞_第二次上机作业\student.h
+	"Date.h"
+
+1428073904 source:c:\users\user\desktop\myself\14211124_郑鹏飞_第二次上机作业\student.cpp
+	"Student.h"
+	<iostream>
+	<cstdio>
+	<cstring>
+

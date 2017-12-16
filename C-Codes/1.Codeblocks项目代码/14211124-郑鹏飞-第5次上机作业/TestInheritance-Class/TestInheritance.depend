@@ -1,0 +1,314 @@
+# depslib dependency file v1.0
+1334224407 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\date.cpp
+	"Date.h"
+	<iostream>
+
+1334224434 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\date.h
+	<iostream>
+
+1334223797 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334224214 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\electivecourse.h
+	"Course.h"
+
+1333631568 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\course.h
+	<string>
+	<iostream>
+
+1334223267 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1334224113 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\obligatorycourse.h
+	"Course.h"
+
+1333633759 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1334224474 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334224546 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\course.cpp
+	"Course.h"
+
+1333631568 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\course.h
+	<string>
+	<iostream>
+
+1334224406 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\date.cpp
+	"Date.h"
+	<iostream>
+
+1334224434 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\date.h
+	<iostream>
+
+1334223796 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334224214 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\electivecourse.h
+	"Course.h"
+
+1334223266 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1334224112 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\obligatorycourse.h
+	"Course.h"
+
+1334847415 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+
+1334224606 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334847297 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\main.cpp
+	"Console.h"
+
+1334847207 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<typeinfo>
+
+1334846892 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testinheritance-class\console.h
+	"Student.h"
+	"Course.h"
+
+1334849321 source:e:\testinheritance-class\course.cpp
+	"Course.h"
+
+1333631568 e:\testinheritance-class\course.h
+	<string>
+	<iostream>
+
+1334224406 source:e:\testinheritance-class\date.cpp
+	"Date.h"
+	<iostream>
+
+1334224434 e:\testinheritance-class\date.h
+	<iostream>
+
+1334223796 source:e:\testinheritance-class\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334224214 e:\testinheritance-class\electivecourse.h
+	"Course.h"
+
+1334223266 source:e:\testinheritance-class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1334224112 e:\testinheritance-class\obligatorycourse.h
+	"Course.h"
+
+1334848970 source:e:\testinheritance-class\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+
+1334849036 e:\testinheritance-class\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334848306 source:e:\testinheritance-class\main.cpp
+	"Console.h"
+
+1334846892 e:\testinheritance-class\console.h
+	"Student.h"
+	"Course.h"
+
+1334848868 source:e:\testinheritance-class\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<typeinfo>
+
+1432896607 source:e:\上机代码\testinheritance-class\course.cpp
+	"Course.h"
+
+1432893947 e:\上机代码\testinheritance-class\course.h
+	<string>
+	<iostream>
+
+1334224406 source:e:\上机代码\testinheritance-class\date.cpp
+	"Date.h"
+	<iostream>
+
+1334224434 e:\上机代码\testinheritance-class\date.h
+	<iostream>
+
+1334223796 source:e:\上机代码\testinheritance-class\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334224214 e:\上机代码\testinheritance-class\electivecourse.h
+	"Course.h"
+
+1334223266 source:e:\上机代码\testinheritance-class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1334224112 e:\上机代码\testinheritance-class\obligatorycourse.h
+	"Course.h"
+
+1432898171 source:e:\上机代码\testinheritance-class\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Course.h"
+
+1432896199 e:\上机代码\testinheritance-class\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334848306 source:e:\上机代码\testinheritance-class\main.cpp
+	"Console.h"
+
+1334878408 e:\上机代码\testinheritance-class\console.h
+	"Student.h"
+	"Course.h"
+
+1432899071 source:e:\上机代码\testinheritance-class\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<typeinfo>
+	<iomanip>
+
+1432899071 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<typeinfo>
+	<iomanip>
+
+1334878408 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\console.h
+	"Student.h"
+	"Course.h"
+
+1432896199 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334224434 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\date.h
+	<iostream>
+
+1432893947 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\course.h
+	<string>
+	<iostream>
+
+1334224112 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\obligatorycourse.h
+	"Course.h"
+
+1334224214 c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\electivecourse.h
+	"Course.h"
+
+1432899581 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\course.cpp
+	"Course.h"
+
+1334224406 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\date.cpp
+	"Date.h"
+	<iostream>
+
+1334223796 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334848306 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\main.cpp
+	"Console.h"
+
+1334223266 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1432902288 source:c:\users\user\desktop\作业暂时存放处\14211124-郑鹏飞-第5次上机作业\testinheritance-class\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Course.h"
+
+1432899071 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\console.cpp
+	"Console.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Date.h"
+	<iostream>
+	<typeinfo>
+	<iomanip>
+
+1334878408 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\console.h
+	"Student.h"
+	"Course.h"
+
+1432896199 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1334224434 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\date.h
+	<iostream>
+
+1432893947 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\course.h
+	<string>
+	<iostream>
+
+1334224112 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\obligatorycourse.h
+	"Course.h"
+
+1334224214 e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\electivecourse.h
+	"Course.h"
+
+1432899581 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\course.cpp
+	"Course.h"
+
+1334224406 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\date.cpp
+	"Date.h"
+	<iostream>
+
+1334223796 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1334848306 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\main.cpp
+	"Console.h"
+
+1334223266 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1432902288 source:e:\代码\111.codeblocks项目代码\14211124-郑鹏飞-第5次上机作业\testinheritance-class\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<cstdlib>
+	<typeinfo>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	"Course.h"
+

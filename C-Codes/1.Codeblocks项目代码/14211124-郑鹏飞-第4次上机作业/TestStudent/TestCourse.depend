@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1333631652 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\date.cpp
+	"Date.h"
+	<iostream>
+
+1333631279 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\date.h
+	<iostream>
+
+1333633759 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1333633717 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1333631568 e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\course.h
+	<string>
+	<iostream>
+
+1333633815 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+
+1333631633 source:e:\works\教学\本科课程\高级语言程序设计-2\1112-02\experiment\testcourse\course.cpp
+	"Course.h"
+
+1333631652 source:e:\ppt\testcourse\date.cpp
+	"Date.h"
+	<iostream>
+
+1333631278 e:\ppt\testcourse\date.h
+	<iostream>
+
+1431691174 source:e:\ppt\testcourse\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1431691167 e:\ppt\testcourse\electivecourse.h
+	"Course.h"
+
+1333631568 e:\ppt\testcourse\course.h
+	<string>
+	<iostream>
+
+1431691086 source:e:\ppt\testcourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+
+1431691086 e:\ppt\testcourse\obligatorycourse.h
+	"Course.h"
+
+1333633758 source:e:\ppt\testcourse\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1333633716 e:\ppt\testcourse\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+
+1333631632 source:e:\ppt\testcourse\course.cpp
+	"Course.h"
+
+1431702532 source:e:\ppt\testcourse\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+	<cstdlib>
+
+1431783328 source:c:\users\user\desktop\testcourse\course.cpp
+	"Course.h"
+
+1333631568 c:\users\user\desktop\testcourse\course.h
+	<string>
+	<iostream>
+
+1431705435 source:c:\users\user\desktop\testcourse\date.cpp
+	"Date.h"
+	<iostream>
+
+1333631278 c:\users\user\desktop\testcourse\date.h
+	<iostream>
+
+1431783398 source:c:\users\user\desktop\testcourse\main.cpp
+	<iostream>
+	<cstdlib>
+	<typeinfo>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1431779915 c:\users\user\desktop\testcourse\student.h
+	"Date.h"
+	"Course.h"
+	<iostream>
+	<string>
+	"ObligatoryCourse.h"
+	"ElectiveCourse.h"
+
+1431774400 c:\users\user\desktop\testcourse\obligatorycourse.h
+	"Course.h"
+
+1431774400 c:\users\user\desktop\testcourse\electivecourse.h
+	"Course.h"
+
+1431783298 source:c:\users\user\desktop\testcourse\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+	<typeinfo>
+
+1431774400 source:c:\users\user\desktop\testcourse\electivecourse.cpp
+	"ElectiveCourse.h"
+
+1431774137 source:c:\users\user\desktop\testcourse\obligatorycourse.cpp
+	"ObligatoryCourse.h"
+

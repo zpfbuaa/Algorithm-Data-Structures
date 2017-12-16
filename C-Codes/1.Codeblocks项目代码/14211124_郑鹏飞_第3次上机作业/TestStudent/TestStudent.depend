@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1429278896 source:c:\users\user\desktop\交作业\teststudent\course.cpp
+	"course.h"
+	<string>
+	<cstdlib>
+	<iostream>
+
+1429277093 c:\users\user\desktop\交作业\teststudent\course.h
+	<string>
+	<iostream>
+
+1429278703 source:c:\users\user\desktop\交作业\teststudent\date.cpp
+	"Date.h"
+	<iostream>
+
+1429277291 c:\users\user\desktop\交作业\teststudent\date.h
+	<iostream>
+
+1429279144 source:c:\users\user\desktop\交作业\teststudent\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	<string>
+	<cstring>
+
+1429278797 c:\users\user\desktop\交作业\teststudent\student.h
+	"Date.h"
+	"course.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1429278860 source:c:\users\user\desktop\交作业\teststudent\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1429281958 source:c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\date.cpp
+	"Date.h"
+	<iostream>
+
+1429281057 c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\date.h
+	<iostream>
+
+1429282639 source:c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\main.cpp
+	<iostream>
+	"Date.h"
+	"Student.h"
+	"Course.h"
+	<string>
+	<cstring>
+
+1429278797 c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\student.h
+	"Date.h"
+	"course.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1429277093 c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\course.h
+	<string>
+	<iostream>
+
+1429278860 source:c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
+1429281674 source:c:\users\user\desktop\交作业\14211124_郑鹏飞_第三次上机作业\teststudent\course.cpp
+	"course.h"
+	<string>
+	<cstdlib>
+	<iostream>
+
